@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="../PrivateLib/PrivateLib.csproj" />
-  <Project Path="ValueTypeUnsafeAccessor.csproj" />
-</Solution>
